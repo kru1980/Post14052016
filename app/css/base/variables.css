@@ -1,14 +1,19 @@
-$r: "RobotoRegular", Arial, sans-serif;
-$rb: "RobotoBold", Arial, sans-serif;
-$rl: "RobotoLightr", Arial, sans-serif;
-$rm: "RobotoMedium", Arial, sans-serif;
+$CenB: "PFCentroSlabProBold", Arial, sans-serif;
+$CenM: "PFCentroSlabProMedium", Arial, sans-serif;
+$RalB: "RalewayBold", Arial, sans-serif;
+$RalR: "RalewayRegular", Arial, sans-serif;
+$RalS: "RalewaySemiBold", Arial, sans-serif;
+$RobB: "RobotoBold", Arial, sans-serif;
 
 
-$main-color: #919191;
+$main-color: #f39f18;
+/*
 $gray: #252e30;
 $green: #2ecc71;
 $line: #ccc;
 $text:#566366;
+*/
+
 
 
 
