@@ -1,14 +1,12 @@
 extends ../blocks/layout/layout
 block append head
-  +styles('css/styles.css')
+  +styles('vendor/font-awesome/css/font-awesome.css', 'vendor/bootstrap/dist/css/bootstrap.css','css/styles.css')
 block title
-  title My title
+  title Jadi5
 block content
-  .main
-    .col
-      h1 PostCss Template !!!
-    .col
-      h1 PostCss Template !!!
-    .col
-      h1 PostCss Template !!!
+  include include/header
+
+
+  script(src="vendor/jquery/dist/jquery.js")
+  script(src="vendor/bootstrap/dist/js/bootstrap.js")
   script(src="js/app.js")
